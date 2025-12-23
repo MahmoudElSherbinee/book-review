@@ -25,7 +25,7 @@ Books Review Portal is a full-featured web application built with Laravel that a
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Laravel 10.x
+- **Backend**: Laravel 12.x
 - **Frontend**: Tailwind CSS, Blade Templates
 - **Database**: MySQL with Eloquent ORM
 - **API Protection**: Laravel Rate Limiter
